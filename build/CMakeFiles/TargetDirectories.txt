@@ -1,0 +1,11 @@
+D:/forGit/AllLabs/build/CMakeFiles/ALL_BUILD.dir
+D:/forGit/AllLabs/build/CMakeFiles/ZERO_CHECK.dir
+D:/forGit/AllLabs/build/gtest/CMakeFiles/gtest.dir
+D:/forGit/AllLabs/build/stack/CMakeFiles/stack.dir
+D:/forGit/AllLabs/build/stacklib/CMakeFiles/stacklib.dir
+D:/forGit/AllLabs/build/stacktest/CMakeFiles/stacktest.dir
+D:/forGit/AllLabs/build/queue/CMakeFiles/queue.dir
+D:/forGit/AllLabs/build/queuelib/CMakeFiles/queuelib.dir
+D:/forGit/AllLabs/build/queuetest/CMakeFiles/queuetest.dir
+D:/forGit/AllLabs/build/MyCalculator/CMakeFiles/MyCalculator.dir
+D:/forGit/AllLabs/build/RoundQueue/CMakeFiles/RoundQueue.dir
